@@ -1,4 +1,18 @@
 # 🧩 Desafio Técnico – Escribo (Backend Supabase + IA)
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
 
 Este projeto implementa o **backend completo de um e-commerce educativo**, usando **Supabase** como banco de dados e **Edge Functions** para automação com IA.
 
